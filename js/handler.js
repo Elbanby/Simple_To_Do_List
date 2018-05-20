@@ -195,23 +195,3 @@ window.onload = function() {
 
 
 }
-
-
-
-
-
-
-/*
-bug 2
-
-Back end implementation to be able to store data, until you close your browser
-
-
-Idea to fix
-
-require fs and make eachobject able to store data in a JSON format then append
-to file.
-
-then check if the file is not empty and if that the case ceate the object
-with parsed values
-*/
